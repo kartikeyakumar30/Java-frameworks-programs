@@ -1,0 +1,5 @@
+127.0.0.1 - - [09/Sep/2021:12:09:31 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [09/Sep/2021:12:10:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:12:10:42 +0530] "GET /web_customer_tracker_aop_23/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:12:10:46 +0530] "GET /web_customer_tracker_aop_23/customer/list HTTP/1.1" 200 4178
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:12:10:46 +0530] "GET /web_customer_tracker_aop_23/resources/css/style.css HTTP/1.1" 200 1049

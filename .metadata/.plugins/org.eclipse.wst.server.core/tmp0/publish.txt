@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun Sep 26 15:06:21 IST 2021
+org.eclipse.jst.jee.server\:/binary\:E\:\\Sync\\Code\\Springs\\eclipse-workspace\\web_customer_tracker_aop_23\\WebContent\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.9.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\Sync\\Code\\Springs\\eclipse-workspace\\web_customer_tracker_aop_23\\WebContent\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar=WEB-INF/lib/spring-web-5.2.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Kartikeya\ kumar\\.m2\\repository\\org\\springframework\\spring-web\\5.0.6.RELEASE\\spring-web-5.0.6.RELEASE.jar=WEB-INF/lib/spring-web-5.0.6.RELEASE.jar

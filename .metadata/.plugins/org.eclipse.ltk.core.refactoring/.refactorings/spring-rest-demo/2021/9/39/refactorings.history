@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kk.springdemo.rest.StrudentRestController&apos; to &apos;StudentRestController&apos;&#x0D;&#x0A;- Original project: &apos;spring-rest-demo&apos;&#x0D;&#x0A;- Original element: &apos;com.kk.springdemo.rest.StrudentRestController&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kk.springdemo.rest.StudentRestController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StrudentRestController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kk.springdemo.rest{StrudentRestController.java[StrudentRestController" matchStrategy="1" name="StudentRestController" qualified="false" references="true" similarDeclarations="false" stamp="1632565540110" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+package com.kk.springboot.cruddemo.service;
+
+public interface EmployeeService {
+
+	
+}

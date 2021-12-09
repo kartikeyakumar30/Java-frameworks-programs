@@ -1,0 +1,5 @@
+127.0.0.1 - - [18/Sep/2021:19:40:43 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Sep/2021:19:40:48 +0530] "GET /spring-security-demo-06-csrf/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Sep/2021:19:40:50 +0530] "GET /spring-security-demo-06-csrf/showMyLoginPage HTTP/1.1" 200 3211
+0:0:0:0:0:0:0:1 - - [18/Sep/2021:19:41:13 +0530] "POST /spring-security-demo-06-csrf/authenticateTheUser HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Sep/2021:19:41:13 +0530] "GET /spring-security-demo-06-csrf/ HTTP/1.1" 200 632

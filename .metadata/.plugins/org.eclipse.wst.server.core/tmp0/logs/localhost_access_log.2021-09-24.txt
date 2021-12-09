@@ -1,0 +1,8 @@
+127.0.0.1 - - [24/Sep/2021:20:39:40 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Sep/2021:20:39:42 +0530] "GET /spring-rest-demo/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Sep/2021:20:39:56 +0530] "GET /spring-rest-demo/test/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Sep/2021:20:40:15 +0530] "GET /spring-rest-demo/test/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Sep/2021:20:40:27 +0530] "GET /spring-rest-demo/test/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Sep/2021:20:40:51 +0530] "GET /spring-rest-demo/test/hello HTTP/1.1" 200 12
+0:0:0:0:0:0:0:1 - - [24/Sep/2021:20:41:02 +0530] "GET /spring-rest-demo/test/hello HTTP/1.1" 200 12
+0:0:0:0:0:0:0:1 - - [24/Sep/2021:20:42:41 +0530] "GET /spring-rest-demo/test/hello HTTP/1.1" 200 12

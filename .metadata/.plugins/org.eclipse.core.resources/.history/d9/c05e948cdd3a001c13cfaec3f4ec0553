@@ -1,0 +1,35 @@
+package com.kk.springboot.cruddemo.dao;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+
+import org.springframework.stereotype.Repository;
+
+import com.kk.springboot.cruddemo.entity.Employee;
+
+@Repository
+public class EmployeeDAOJpaImpl implements EmployeeDAO {
+
+	private EntityManager entityManager;
+	@Override
+	public List<Employee> findAll() {
+		
+	}
+
+	@Override
+	public Employee findById(int theId) {
+		
+	}
+
+	@Override
+	public void save(Employee theEmployee) {
+		
+	}
+
+	@Override
+	public void deleteById(int theId) {
+		
+	}
+
+}

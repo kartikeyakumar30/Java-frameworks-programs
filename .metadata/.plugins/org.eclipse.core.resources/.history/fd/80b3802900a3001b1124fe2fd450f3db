@@ -1,0 +1,13 @@
+package com.kk.springdemo.mvc;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class HomeController {
+	
+	@RequestMapping("GET")
+	public String showPage() {
+		return "main-menu";	//prefix and suffix will be added automatically through view resolver
+	}
+}
